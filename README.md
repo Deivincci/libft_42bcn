@@ -29,6 +29,7 @@ Compila la librería:
 Dentro del directorio del proyecto, simplemente ejecuta el siguiente comando para compilar la librería:
 
 make
+
 Limpia los archivos generados (opcional):
 
 Si quieres limpiar los archivos objeto generados por make, puedes usar el comando:
