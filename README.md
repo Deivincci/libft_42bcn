@@ -1,4 +1,8 @@
-Libft - Mi Librería Propia
+
+                                    ********************************
+                                    *  LIBFT - Mi propia librería  *
+                                    ********************************
+
 Descripción
 Libft es una librería personalizada que he desarrollado durante el curso 42 Barcelona, completamente implementada en C. Está compuesta por funciones propias que son imprescindibles para realizar proyectos posteriores dentro del curso.
 A lo largo de este proyecto, he aprendido muchísimo sobre las funciones fundamentales de C y cómo construir una librería eficiente y reutilizable.
